@@ -41,16 +41,19 @@ Each implementation follows best practices for that framework, making it **easy 
 cd lyricfinder-react
 npm install
 npm run dev
+```
 
 ### **SvelteKit Version**
 ```bash
 cd lyricfinder-svelte
 npm install
 npm run dev
+```
 
-##🌟 Future Frameworks to Explore
-	•	🔄 Qwik
-	•	🔄 SolidJS
-	•	🔄 Vue
-	•	🔄 Angular
-	•	🔄 Svelte 5
+
+## 🌟 **Future Frameworks to Explore**
+- 🔄 Qwik
+- 🔄 SolidJS
+- 🔄 Vue
+- 🔄 Angular
+- 🔄 Svelte 5
