@@ -32,7 +32,7 @@ In each framework version, we implement:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/lyricfinder.git
+git clone https://github.com/brooklyngibbs/frontend-frameworks.git
 
 # Navigate to the React version
 cd lyricfinder-react
@@ -163,3 +163,10 @@ This project uses Tailwind CSS for styling.
    - [X] Implement caching
    - [ ] Add animations
    - [ ] Improve error handling
+   
+---
+
+Built with 💚 by Brooklyn Gibbs while exploring modern frontend frameworks. Check out my other framework implementations:
+- [Svelte Version](https://github.com/brooklyngibbs/frontend-frameworks/tree/main/lyricfinder-svelte)
+- [Qwik Version](link-to-repo) (Coming Soon)
+- [Astro Version](link-to-repo) (Coming Soon)
