@@ -14,7 +14,7 @@ This repository serves as a **guide to frontend frameworks** by building the sam
 | Framework  | Status  | Folder  |
 |------------|---------|-----------------|
 | **React**  | ✅ Completed | `lyricfinder-react`  |
-| **Svelte**  | ✅ Completed | `lyricfinder-svelte`  |
+| **SvelteKit**  | ✅ Completed | `lyricfinder-svelte`  |
 | **Qwik**  | 🔄 Coming Soon | `lyricfinder-qwik`  |
 | **SolidJS**  | 🟡 Planned | `lyricfinder-solid`  |
 | **Vue**  | 🟡 Planned | `lyricfinder-vue`  |
